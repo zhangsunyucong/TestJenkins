@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestJenkins2.iml" filepath="$PROJECT_DIR$/TestJenkins2.iml" />
+      <module fileurl="file://D:\Jenkins\workspace\testJenkins\TestJenkins2.iml" filepath="D:\Jenkins\workspace\testJenkins\TestJenkins2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testJenkins.iml" filepath="$PROJECT_DIR$/testJenkins.iml" />
     </modules>
   </component>
 </project>
